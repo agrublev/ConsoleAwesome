@@ -1,0 +1,35 @@
+{
+  "name": "ConsoleAwesome",
+  "title": "Console Awesome",
+  "description": "The modern Javascript Console",
+  "version": "0.0.1",
+  "homepage": "https://github.com/agrublev/ConsoleAwesome",
+  "author": {
+    "name": "Angel Grablev",
+    "email": "angel@freedcamp.com",
+    "url": "https://freedcamp.com"
+  },
+  "main": "dist/ca.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agrublev/ConsoleAwesome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agrublev/ConsoleAwesome/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/agrublev/ConsoleAwesome/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "js",
+    "console",
+    "modern",
+    "pretty",
+    "style"
+  ],
+  "devDependencies": {
+  }
+}
